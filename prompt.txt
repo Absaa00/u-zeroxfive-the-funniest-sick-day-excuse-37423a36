@@ -1,0 +1,14 @@
+Build a make.fun competition entry for "The Funniest Sick-Day Excuse"
+(u-zeroxfive-the-funniest-sick-day-excuse-37423a36).
+
+Write a deterministic Python program (main.py, no network, no input) that
+prints exactly ONE sick-day excuse line, under 200 characters, that someone
+could send to call in sick. The excuse must be:
+- funny, with the laugh landing before the last word;
+- half-plausible in its setup, then absurd in its twist;
+- a fresh idea, not a recycled classic (no food poisoning, no alarm clock,
+  no "my car broke down");
+- readable in a single breath, one line only, nothing else.
+
+Also write README.md (make.fun badge + link back to the bounty page),
+a unique .gitignore, and an MIT LICENSE with an SPDX identifier.

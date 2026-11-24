@@ -1,0 +1,18 @@
+# Sick-day excuse entry — ignore local clutter, keep the repo to the entry files.
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*~
+.idea/
+.vscode/
+dist/
+build/
+*.egg-info/
